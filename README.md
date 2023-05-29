@@ -24,7 +24,7 @@
     <img alt="Link para o meu Twitter" src="https://img.shields.io/twitter/follow/eduzinX?style=for-the-badge&label=@eduzinX" height="22px">
 </a>
 <a href="https://linkedin.com/in/eduardo-xerxenevsky-2a717a23a">
-    <img alt="link para o meu LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/HEELINN&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
+    <img alt="link para o meu LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/EDUARDOXERXENEVSKY&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
 </a>
 </a>
 <a href="mailto:eduardoxer@gmail.com">
