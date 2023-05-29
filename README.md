@@ -1,36 +1,23 @@
-### Hi there 👋
 
 <div id="top"></div>
 <div align="center" ><img alt="bem-vindo/a ao meu perfil!" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/header2.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=500&lines=Eu+sou+a+Caroline;Ela/dela;Estudante+de+Eng.+de+Computação;Desenvolvedora+Frontend+brasileira;Gateira+:3;Amo+Power+Metal+%3C3;function+findQuestion(42)" alt="Meu nome é Caroline, pronomes: ela/dela, Estudante de Engenharia de Computação, Desenvolvedora Frontend, amo gatos, amo Power Metal"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=500&lines=Eu+sou+a+Caroline;Ela/dela;Estudante+de+Eng.+de+Computação;Desenvolvedora+Frontend+brasileira;Gateira+:3;Amo+Power+Metal+%3C3;function+findQuestion(42)" alt="Meu nome é Eduardo, Estudante de Análise e Desenvolvimento de Sistemas"></a>
 </div>
 
-<a href="https://github.com/Carol42/Carol42/actions/workflows/lastfm.yml"><img src="https://github.com/Carol42/Carol42/actions/workflows/lastfm.yml/badge.svg" alt="lastfm-to-markdown workflow status" ></a>
-<a href="https://github.com/Carol42/Carol42/actions/workflows/update-snk.yml"><img src="https://github.com/Carol42/Carol42/actions/workflows/update-snk.yml/badge.svg" alt="Generate Datas workflow status" ></a>
-<a href="https://github.com/Carol42/Carol42/actions/workflows/recent-activity.yml"><img src="https://github.com/Carol42/Carol42/actions/workflows/recent-activity.yml/badge.svg" alt="Recent Activity workflow status" ></a>
-
-
-<table align="right">
- <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README.md"><img src="./assets/us_flag.png" alt="Bandeira dos Estados Unidos da América" width="17px"> English</a></td></tr>
- <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README-pt-br.md"><img src="./assets/br_flag.png" alt="Bandeira do Brasil" width="17px"> Português</a></td></tr>
-</table>
 
 <h2>ℹ️ Project info</h2>
 <div>
-<img alt="Tamanho do repositório no GitHub" src="https://img.shields.io/github/repo-size/Carol42/Carol42?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-<img alt="Bifurcações no GitHub" src="https://img.shields.io/github/forks/Carol42/Carol42?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-<img alt="Quantidade de estrelas recebidas no repositório do GitHub" src="https://img.shields.io/github/stars/Carol42/Carol42?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-<img alt="Último commit" src="https://img.shields.io/github/last-commit/carol42/carol42?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
+
 <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/gluten-free.svg" alt="gluten free" height="22px"></a>
 <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/contains-cat-gifs.svg" alt="contains cat gifs" height="22px"></a>
 <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/powered-by-electricity.svg" alt="powered by electricity" height="22px"></a>
 </div>
 
 <h2>:busts_in_silhouette: Onde me encontrar</h2>
-<a href="https://github.com/Carol42">
-    <img alt="Link para o meu GitHub" src="https://img.shields.io/github/followers/Carol42?style=for-the-badge&label=@Carol42" height="22px">
+<a href="https://github.com/HEELINN">
+    <img alt="Link para o meu GitHub" src="https://img.shields.io/github/followers/HEELINN?style=for-the-badge&label=@HEELINN" height="22px">
 </a>
 <a href="https://codepen.io/Carol42">
     <img alt="link para o meu CodePen" src="https://img.shields.io/static/v1?label&message=/Carol42&color=000000&style=for-the-badge&logo=codepen" height="22px" />
