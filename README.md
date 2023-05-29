@@ -46,10 +46,10 @@
 
 
 
-<!--<h2>:notes: Música <a href="https://www.last.fm/user/carol-helo"><img alt="última música que ouvi" src="https://badges.lastfm.workers.dev/last-played?user=carol-helo&color=7E3ACE&logoColor=7E3ACE&label=Última+música+que+ouvi"></a></h2>-->
+<!--<h2>:notes: Música <a href="https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b?si=f8e37a0b8adc4ffb"></a></h2>-->
 <h2>:notes: O que estou ouvindo recentemente
 </br>
-<a href="https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b?si=792b410fa5e74d2e"><img src="[https://spotify-now-playing-31dba7qimaijmkebmzwuah3edpem.vercel.app/api/spotify](https://spotify-now-playing-carol42.vercel.app/api/spotify)" alt="Tocado recentemente no Spotify" ></a>
+<a href="https://open.spotify.com/playlist/5YueGx24a3H6jNWQBMi1Yk?si=1cae1ea49fa341d3"><img src="[https://spotify-now-playing-31dba7qimaijmkebmzwuah3edpem.vercel.app/api/spotify](https://spotify-now-playing-carol42.vercel.app/api/spotify)" alt="Tocado recentemente no Spotify" ></a>
 
 <p>:zap: <b>Fato sobre mim:</b> Eu amo música! É o que me dá a energia que preciso todos os dias. Meus gêneros musicais favoritos são <a href="https://www.last.fm/tag/symphonic+metal">Symphonic</a> e <a href="https://www.last.fm/tag/power+metal">Power</a> Metal. E minha banda favorita é <a href="https://www.last.fm/music/Blind+Guardian">Blind Guardian</a>.</p>
 </br>
