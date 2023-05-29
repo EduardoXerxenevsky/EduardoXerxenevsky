@@ -46,11 +46,6 @@
 
 
 
-
-<h2>:notes: O que estou ouvindo recentemente
-</br>
-[![Spotify](https://novatorem-expliwi1x-heelinn.vercel.app/api/spotify)](https://open.spotify.com/user/Eduardo)
-
 <p>:zap: <b>Fato sobre mim:</b> Eu amo música! Minha banda favorita é <a href="https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5?si=7maJdsuGR_W1HbVZvFCnMw">Red Hot Chilli Peppers</a>.</p>
 </br>
 
