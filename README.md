@@ -49,7 +49,7 @@
 <!--<h2>:notes: Música <a href="https://www.last.fm/user/carol-helo"><img alt="última música que ouvi" src="https://badges.lastfm.workers.dev/last-played?user=carol-helo&color=7E3ACE&logoColor=7E3ACE&label=Última+música+que+ouvi"></a></h2>-->
 <h2>:notes: O que estou ouvindo recentemente
 </br>
-<a href="https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b?si=792b410fa5e74d2e"><img src="https://spotify-now-playing-HEELINN.vercel.app/api/spotify" alt="Tocado recentemente no Spotify" ></a>
+<a href="https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b?si=792b410fa5e74d2e"><img src="[https://spotify-now-playing-31dba7qimaijmkebmzwuah3edpem.vercel.app/api/spotify](https://spotify-now-playing-carol42.vercel.app/api/spotify)" alt="Tocado recentemente no Spotify" ></a>
 
 <p>:zap: <b>Fato sobre mim:</b> Eu amo música! É o que me dá a energia que preciso todos os dias. Meus gêneros musicais favoritos são <a href="https://www.last.fm/tag/symphonic+metal">Symphonic</a> e <a href="https://www.last.fm/tag/power+metal">Power</a> Metal. E minha banda favorita é <a href="https://www.last.fm/music/Blind+Guardian">Blind Guardian</a>.</p>
 </br>
@@ -100,7 +100,7 @@
 <h3> :star: Meus repositórios favoritos no GitHub</h3>
 Veja <a href="https://github.com/HEELINN/my-favorite-repos">aqui</a> uma lista de repositórios incríveis que eu favoritei! A lista se atualiza diariamente.
 
-<img alt="animação da cobrinha nas contribuições do GitHub" src="https://github.com/HEELINN/HEELINN/blob/output/github-contribution-grid-snake.svg">
+<img alt="animação da cobrinha nas contribuições do GitHub" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
 
 <h2>:book: Livro de Visitas</h2>
 <p>Deixe uma mensagem legal para mim, ou simplesmente diga que passou por aqui <a href="https://github.com/Carol42/Carol42/issues/new?template=assinar-o-livro-de-visitas.md">neste link</a>!</p>
