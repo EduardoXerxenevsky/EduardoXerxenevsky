@@ -3,7 +3,7 @@
 <div align="center" ><img alt="bem-vindo/a ao meu perfil!" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/header2.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=500&lines=Eu+sou+a+Caroline;Ela/dela;Estudante+de+Eng.+de+Computação;Desenvolvedora+Frontend+brasileira;Gateira+:3;Amo+Power+Metal+%3C3;function+findQuestion(42)" alt="Meu nome é Eduardo, Estudante de Análise e Desenvolvimento de Sistemas"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=500&lines=Eu+sou+o+Eduardo;Estudante+de+Análise e Desenvolvimento de Sistemas;Desenvolvedor+brasileiro;function+findQuestion(42)" alt="Meu nome é Eduardo, Estudante de Análise e Desenvolvimento de Sistemas"></a>
 </div>
 
 
@@ -109,4 +109,4 @@ Veja <a href="https://github.com/HEELINN/my-favorite-repos">aqui</a> uma lista d
 </div>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=voltar+ao+topo&color=7E3ACE&style=flat&logo" alt="voltar ao topo" /></a></p>
-<div align="center" ><img alt="" width="100%" src="https://github.com/HEELINN/HEELINN/blob/main/assets/footer.png"></div>
+<div align="center" ><img alt="" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/footer.png"></div>
