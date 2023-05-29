@@ -51,14 +51,13 @@
 </br>
 <a href="https://open.spotify.com/playlist/5YueGx24a3H6jNWQBMi1Yk?si=1cae1ea49fa341d3"><img src="[https://spotify-now-playing-31dba7qimaijmkebmzwuah3edpem.vercel.app/api/spotify](https://spotify-now-playing-carol42.vercel.app/api/spotify)" alt="Tocado recentemente no Spotify" ></a>
 
-<p>:zap: <b>Fato sobre mim:</b> Eu amo música! É o que me dá a energia que preciso todos os dias. Meus gêneros musicais favoritos são <a href="https://www.last.fm/tag/symphonic+metal">Symphonic</a> e <a href="https://www.last.fm/tag/power+metal">Power</a> Metal. E minha banda favorita é <a href="https://www.last.fm/music/Blind+Guardian">Blind Guardian</a>.</p>
+<p>:zap: <b>Fato sobre mim:</b> Eu amo música! Minha banda favorita é <a href="https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5?si=7maJdsuGR_W1HbVZvFCnMw">Red Hot Chilli Peppers</a>.</p>
 </br>
-<!--<img alt="o que estou ouvindo agora" src="https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=carol-helo&theme=dimmed">-->
 
 
 <h2>:octocat: Minha atividade no GitHub</h2>
 
-:key: Minha chave GPG: [`39B5693C354521EF`](https://github.com/HEELINN.gpg)
+:key: Minha [`chave GPG:`](https://github.com/HEELINN.gpg)
 
 <h3>:bar_chart: Minhas estatísticas no GitHub</h3>
 
@@ -75,11 +74,11 @@
 
 <div alig="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=180em src="https://github-readme-stats-carol42.vercel.app/api?username=HEELINN&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true&locale=pt-br" alt="minhas estatísticas no github" />
+        <img height=180em src="https://github-readme-stats-HEELINN.vercel.app/api?username=HEELINN&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true&locale=pt-br" alt="minhas estatísticas no github" />
     </a>
 </br>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=180em src="https://github-readme-stats-carol42.vercel.app/api/top-langs/?username=HEELINN&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Linguagens+mais+usadas*&locale=pt-br&langs_count=10" alt="gráfico de linguagens mais usadas" />
+        <img height=180em src="https://github-readme-stats-HEELINN.vercel.app/api/top-langs/?username=HEELINN&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Linguagens+mais+usadas*&locale=pt-br&langs_count=10" alt="gráfico de linguagens mais usadas" />
     </br>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
         <img height=180em src="https://HEELINN-github-streak-stats.herokuapp.com/?user=HEELINN&theme=midnight-purple&hide_border=true&locale=pt-br&date_format=j/n/Y" alt="sequência de contribuições"/>
