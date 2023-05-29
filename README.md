@@ -46,7 +46,7 @@
 
 
 
-<!--<h2>:notes: Música <a href="https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b?si=f8e37a0b8adc4ffb"></a></h2>-->
+<!--<h2>:notes: Música <a href="https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b?si=f8e37a0b8adc4ffb"><img alt="última música que ouvi" src="https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b?si=f8e37a0b8adc4ffb"></a></h2>-->
 <h2>:notes: O que estou ouvindo recentemente
 </br>
 <a href="https://open.spotify.com/playlist/5YueGx24a3H6jNWQBMi1Yk?si=1cae1ea49fa341d3"><img src="[https://spotify-now-playing-31dba7qimaijmkebmzwuah3edpem.vercel.app/api/spotify](https://spotify-now-playing-carol42.vercel.app/api/spotify)" alt="Tocado recentemente no Spotify" ></a>
