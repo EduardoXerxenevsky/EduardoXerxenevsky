@@ -8,12 +8,6 @@
 
 
 <h2>ℹ️ Project info</h2>
-<div>
-
-<a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/gluten-free.svg" alt="gluten free" height="22px"></a>
-<a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/contains-cat-gifs.svg" alt="contains cat gifs" height="22px"></a>
-<a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/powered-by-electricity.svg" alt="powered by electricity" height="22px"></a>
-</div>
 
 <h2>:busts_in_silhouette: Onde me encontrar</h2>
 <a href="https://github.com/HEELINN">
