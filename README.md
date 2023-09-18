@@ -3,15 +3,15 @@
 <div align="center" ><img alt="bem-vindo/a ao meu perfil!" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/header2.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=500&lines=Eu+sou+o+Eduardo;Análise+e+Desenvolvimento+de+Sistemas;Desenvolvedor+brasileiro" alt="Meu nome é Eduardo, Estudante de Análise e Desenvolvimento de Sistemas"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=500&lines=Eu+sou+o+Eduardo;ADS;Desenvolvedor+brasileiro" alt="Meu nome é Eduardo, Estudante de ADS"></a>
 </div>
 
 
 <h2>ℹ️ Project info</h2>
 
 <h2>:busts_in_silhouette: Onde me encontrar</h2>
-<a href="https://github.com/HEELINN">
-    <img alt="Link para o meu GitHub" src="https://img.shields.io/github/followers/HEELINN?style=for-the-badge&label=@HEELINN" height="22px">
+<a href="https://github.com/EduardoXerxenevsky">
+    <img alt="Link para o meu GitHub" src="https://img.shields.io/github/followers/HEELINN?style=for-the-badge&label=@EduardoXerxenevsky" height="22px">
 </a>
 
 <a href="https://twitter.com/eduzinX/">
