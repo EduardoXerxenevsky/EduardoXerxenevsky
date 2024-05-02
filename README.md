@@ -46,7 +46,7 @@
 
 <h2>:octocat: Minha atividade no GitHub</h2>
 
-:key: Minha [`chave GPG:`](https://github.com/HEELINN.gpg)
+:key: Minha [`chave GPG:`](https://github.com/EduardoXerxenevsky.gpg)
 
 <h3>:bar_chart: Minhas estatísticas no GitHub</h3>
 
