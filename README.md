@@ -14,6 +14,11 @@
     <img alt="Link para o meu GitHub" src="https://img.shields.io/github/followers/HEELINN?style=for-the-badge&label=@EduardoXerxenevsky" height="22px">
 </a>
 
+<h2>Most Used Languages</h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DigaLugas&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <a href="https://twitter.com/eduzinX/">
     <img alt="Link para o meu Twitter" src="https://img.shields.io/twitter/follow/eduzinX?style=for-the-badge&label=@eduzinX" height="22px">
 </a>
